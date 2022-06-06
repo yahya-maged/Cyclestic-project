@@ -1,4 +1,5 @@
-# Cyclestic-project![cyclestic-dashboard](https://user-images.githubusercontent.com/107001995/172254271-cdb1342b-ea4f-4fb8-b235-fa0cc733eb04.png)
+# Cyclestic-Project
+![cyclestic-dashboard](https://user-images.githubusercontent.com/107001995/172254271-cdb1342b-ea4f-4fb8-b235-fa0cc733eb04.png)
 
 ------
 Key findings: 
